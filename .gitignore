@@ -9,6 +9,7 @@ node_modules
 .babelrc
 
 # JavaScript files
+calOG.js
 calculation.js
 routes/triSearch.js
 routes/userRoutesMobile.js
